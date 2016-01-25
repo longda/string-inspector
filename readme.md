@@ -1,4 +1,4 @@
-# String Inspector
+# String Inspector`
 ## Setup
 This entire project is self contained, aside from nuget packages which will need to be downloaded.
 
